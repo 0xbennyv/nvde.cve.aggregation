@@ -1,7 +1,14 @@
+#Not Default Items
+cvelistV5-main/
+*.json
+# I'm on a macbook today, I'm sad to add this commit
+.DS_Store 
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
 
 # C extensions
 *.so
