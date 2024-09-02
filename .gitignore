@@ -1,6 +1,7 @@
 #Not Default Items
 cvelistV5-main/
 *.json
+*.db
 # I'm on a macbook today, I'm sad to add this commit
 .DS_Store 
 
